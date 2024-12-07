@@ -24,12 +24,6 @@
         "rating": 4
     },
     {
-        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/jean4.webp",
-        "category": "Clothes",
-        "price": 246,
-        "rating": 1
-    },
-    {
         "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/jean5.webp",
         "category": "Clothes",
         "price": 1643,
@@ -60,7 +54,7 @@
         "rating": 2
     },
     {
-        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/shirt5.webp.jpg",
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/shirt5.webp",
         "category": "Clothes",
         "price": 875,
         "rating": 3
@@ -624,7 +618,7 @@
         "rating": 4
     },
     {
-        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/elec3.webp",
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/elec10.webp",
         "category": "Electronics",
         "price": 7364,
         "rating": 4
@@ -672,7 +666,7 @@
         "rating": 3
     },
     {
-        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/elec11.webp",
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/elec11.jpg",
         "category": "Electronics",
         "price": 8453,
         "rating": 4
