@@ -1,0 +1,698 @@
+[
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/jean.webp",
+        "category": "Clothes",
+        "price": 100,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/jean1.webp",
+        "category": "Clothes",
+        "price": 754,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/jean2.webp",
+        "category": "Clothes",
+        "price": 895,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/jean3.webp",
+        "category": "Clothes",
+        "price": 2156,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/jean4.webp",
+        "category": "Clothes",
+        "price": 246,
+        "rating": 1
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/jean5.webp",
+        "category": "Clothes",
+        "price": 1643,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/shirt1.webp",
+        "category": "Clothes",
+        "price": 634,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/shirt2.webp",
+        "category": "Clothes",
+        "price": 246,
+        "rating": 1
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/shirt3.webp",
+        "category": "Clothes",
+        "price": 200,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/shirt4.webp",
+        "category": "Clothes",
+        "price": 822,
+        "rating": 2
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/shirt5.webp.jpg",
+        "category": "Clothes",
+        "price": 875,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/tshirt1.webp",
+        "category": "Clothes",
+        "price": 2535,
+        "rating": 1
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/tshirt2.webp",
+        "category": "Clothes",
+        "price": 255,
+        "rating": 1
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/tshirt3.webp",
+        "category": "Clothes",
+        "price": 2762,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/tshirt4.webp",
+        "category": "Clothes",
+        "price": 2672,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/tshirt5.webp",
+        "category": "Clothes",
+        "price": 2672,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/b1.webp",
+        "category": "Beverage",
+        "price": 462,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/b2.webp",
+        "category": "Beverage",
+        "price": 236,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/b3.webp",
+        "category": "Beverage",
+        "price": 154,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/b4.webp",
+        "category": "Beverage",
+        "price": 522,
+        "rating": 1
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/b5.webp",
+        "category": "Beverage",
+        "price": 672,
+        "rating": 2
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/b6.webp",
+        "category": "Beverage",
+        "price": 272,
+        "rating": 0
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/b7.webp",
+        "category": "Beverage",
+        "price": 377,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/b8.webp",
+        "category": "Beverage",
+        "price": 753,
+        "rating": 2
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/b9.webp",
+        "category": "Beverage",
+        "price": 785,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/b10.webp",
+        "category": "Beverage",
+        "price": 785,
+        "rating": 2
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/b1.webp",
+        "category": "Beverage",
+        "price": 987,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/food1.webp",
+        "category": "Food",
+        "price": 462,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/food2.webp",
+        "category": "Food",
+        "price": 236,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/food3.webp",
+        "category": "Food",
+        "price": 154,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/food4.webp",
+        "category": "Food",
+        "price": 522,
+        "rating": 1
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/food5.webp",
+        "category": "Food",
+        "price": 672,
+        "rating": 2
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/food6.webp",
+        "category": "Food",
+        "price": 272,
+        "rating": 0
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/food7.webp",
+        "category": "Food",
+        "price": 377,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/food8.webp",
+        "category": "Food",
+        "price": 753,
+        "rating": 2
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/food9.webp",
+        "category": "Food",
+        "price": 785,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/food10.webp",
+        "category": "Food",
+        "price": 785,
+        "rating": 2
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/f1.webp",
+        "category": "Furniture",
+        "price": 42452,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/f2.webp",
+        "category": "Furniture",
+        "price": 7273,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/f3.webp",
+        "category": "Furniture",
+        "price": 7834,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/f4.webp",
+        "category": "Furniture",
+        "price": 9775,
+        "rating": 1
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/f5.webp",
+        "category": "Furniture",
+        "price": 78675,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/f6.webp",
+        "category": "Furniture",
+        "price": 7867,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/f7.webp",
+        "category": "Furniture",
+        "price": 4533,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/f8.webp",
+        "category": "Furniture",
+        "price": 78678,
+        "rating": 2
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/f9.webp",
+        "category": "Furniture",
+        "price": 78686,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/f10.webp",
+        "category": "Furniture",
+        "price": 7788,
+        "rating": 0
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/g1.webp",
+        "category": "Gym Equipment",
+        "price": 7867,
+        "rating": 1
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/g2.webp",
+        "category": "Gym Equipment",
+        "price": 7867,
+        "rating": 1
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/g3.webp",
+        "category": "Gym Equipment",
+        "price": 2773,
+        "rating": 2
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/g4.webp",
+        "category": "Gym Equipment",
+        "price": 7354,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/g5.webp",
+        "category": "Gym Equipment",
+        "price": 3645,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/g6.webp",
+        "category": "Gym Equipment",
+        "price": 3222,
+        "rating": 0
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/g7.webp",
+        "category": "Gym Equipment",
+        "price": 9574,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/g8.webp",
+        "category": "Gym Equipment",
+        "price": 5777,
+        "rating": 1
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/g9.webp",
+        "category": "Gym Equipment",
+        "price": 7865,
+        "rating": 1
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/g10.webp",
+        "category": "Gym Equipment",
+        "price": 9741,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/hp1.webp",
+        "category": "Headphones",
+        "price": 3454,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/hp2.webp",
+        "category": "Headphones",
+        "price": 1021,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/hp3.webp",
+        "category": "Headphones",
+        "price": 3120,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/hp4.webp",
+        "category": "Headphones",
+        "price": 6520,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/hp5.webp",
+        "category": "Headphones",
+        "price": 6454,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/hp6.webp",
+        "category": "Headphones",
+        "price": 8544,
+        "rating": 0
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/hp7.webp",
+        "category": "Headphones",
+        "price": 4532,
+        "rating": 1
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/hp8.webp",
+        "category": "Headphones",
+        "price": 8652,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/hp9.webp",
+        "category": "Headphones",
+        "price": 9875,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/k1.webp",
+        "category": "Knife",
+        "price": 9875,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/k2.webp",
+        "category": "Knife",
+        "price": 9875,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/k3.webp",
+        "category": "Knife",
+        "price": 9875,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/k4.webp",
+        "category": "Knife",
+        "price": 9875,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/k5.webp",
+        "category": "Knife",
+        "price": 9875,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/k6.webp",
+        "category": "Knife",
+        "price": 9875,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/k7.webp",
+        "category": "Knife",
+        "price": 9875,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/k8.webp",
+        "category": "Knife",
+        "price": 9875,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/shoe1.webp",
+        "category": "Shoes",
+        "price": 1527,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/shoe2.webp",
+        "category": "Shoes",
+        "price": 3527,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/shoe3.webp",
+        "category": "Shoes",
+        "price": 1527,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/shoe4.webp",
+        "category": "Shoes",
+        "price": 2444,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/shoe5.webp",
+        "category": "Shoes",
+        "price": 9885,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/shoes6.webp",
+        "category": "Shoes",
+        "price": 1231,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/shoes7.webp",
+        "category": "Shoes",
+        "price": 2524,
+        "rating": 2
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/shoe8.webp",
+        "category": "Shoes",
+        "price": 9885,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/sp1.webp",
+        "category": "Sports",
+        "price": 5435,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/sp2.webp",
+        "category": "Sports",
+        "price": 7554,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/sp3.webp",
+        "category": "Sports",
+        "price": 8767,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/sp4.webp",
+        "category": "Sports",
+        "price": 5444,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/sp5.webp",
+        "category": "Sports",
+        "price": 4443,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/sp6.webp",
+        "category": "Sports",
+        "price": 6873,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/sp7.webp",
+        "category": "Sports",
+        "price": 6354,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/sp8.webp",
+        "category": "Sports",
+        "price": 7868,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/sp9.webp",
+        "category": "Sports",
+        "price": 3567,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/sp10.webp",
+        "category": "Sports",
+        "price": 4337,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/sp11.webp",
+        "category": "Sports",
+        "price": 7437,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/stat1.webp",
+        "category": "Stationary",
+        "price": 3454,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/stat2.webp",
+        "category": "Stationary",
+        "price": 1643,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/stat3.webp",
+        "category": "Stationary",
+        "price": 3424,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/stat4.webp",
+        "category": "Stationary",
+        "price": 2423,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/stat5.webp",
+        "category": "Stationary",
+        "price": 8467,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/stat6.webp",
+        "category": "Stationary",
+        "price": 2123,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/stat7.webp",
+        "category": "Stationary",
+        "price": 5632,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/stat8.webp",
+        "category": "Stationary",
+        "price": 2143,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/stat9.webp",
+        "category": "Stationary",
+        "price": 5647,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/elec1.webp",
+        "category": "Electronics",
+        "price": 5623,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/elec2.webp",
+        "category": "Electronics",
+        "price": 3247,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/elec3.webp",
+        "category": "Electronics",
+        "price": 7364,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/elec4.webp",
+        "category": "Electronics",
+        "price": 8745,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/elec5.webp",
+        "category": "Electronics",
+        "price": 2345,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/elec6.webp",
+        "category": "Electronics",
+        "price": 5683,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/elec7.webp",
+        "category": "Electronics",
+        "price": 7863,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/elec8.webp",
+        "category": "Electronics",
+        "price": 8763,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/elec9.webp",
+        "category": "Electronics",
+        "price": 7654,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/elec10.webp",
+        "category": "Electronics",
+        "price": 6543,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/elec11.webp",
+        "category": "Electronics",
+        "price": 8453,
+        "rating": 4
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/elec12.webp",
+        "category": "Electronics",
+        "price": 5643,
+        "rating": 3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/elec13.webp",
+        "category": "Electronics",
+        "price": 6543,
+        "rating": 5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/GeekyShaswat/subCart/main/elec14.webp",
+        "category": "Electronics",
+        "price": 7654,
+        "rating": 5
+    }
+]
